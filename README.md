@@ -1,10 +1,17 @@
-# Movie-Reviews-Sentiment-Analysis
-Sentiment Analysis of Movie Reviews is either positive or negative review, the dataset which is used is "IMDB Dataset of 50K Movie Reviews" and the following machine learning which I used is Logistic Regression , Random Forest and LinearSVC.
+# Sentiment-Analysis-Movie-Reviews
+This is a machine learning model aimed at analyzing the sentiment of IMDb movie reviews. The objective is to classify reviews as **positive** or **negative** using **TF-IDF vectorization** and **machine learning models** like Logistic Regression and Random Forest.
+
+# Objective
+To build a text classification model that identifies sentiment from movie reviews using classical machine learning techniques.
 
 # Dataset
 https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
-# Requirement
-* Scikit-learn
-* Python
-* SpaCy
+# Tools and Libraries
+- Scikit-learn
+- Python
+- SpaCy
+- Jupyter Notebook
+- Pandas, NumPy
+- TF-IDF Vectorizer
+- Matplotlib / Seaborn
