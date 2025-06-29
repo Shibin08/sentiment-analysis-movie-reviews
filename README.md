@@ -23,10 +23,28 @@ https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 - **SVC Accuracy:** ~85%
 - Evaluation done using: Accuracy Score, Confusion Matrix, and F1-Score
 
-
 # Team members
 **Group No. 32**
 - Santwana Behara(Team Leader)
 - Mohammad Rakshanda
 - Majji Vivek
 - Shibin Malakot
+
+# How to Run the Project
+
+Follow these steps to run the Sentiment Analysis on Movie Reviews project:
+
+### 1. Clone the Repository
+git clone https://github.com/Shibin08/sentiment-analysis-movie-reviews.git
+cd sentiment-analysis-movie-reviews
+
+### 2. Install Required Libraries
+pip install -r requirements.txt
+
+### 3. Open the Notebook
+Launch Jupyter Notebook or use VS Code to open and run the file:
+Model.ipynb
+
+
+
+
