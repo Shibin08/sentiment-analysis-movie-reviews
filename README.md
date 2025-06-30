@@ -19,8 +19,8 @@ https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 # Results
 
 - **Logistic Regression Accuracy:** ~87%
-- **Random Forest Accuracy:** ~84%
-- **SVC Accuracy:** ~85%
+- **Random Forest Accuracy:** ~85%
+- **SVC Accuracy:** ~88%
 - Evaluation done using: Accuracy Score, Confusion Matrix, and F1-Score
 
 # Team members
