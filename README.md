@@ -45,7 +45,7 @@ pip install -r requirements.txt
 Launch Jupyter Notebook or use VS Code to open and run the file:
 Model.ipynb
 
-### Loading the Trained Models
+# Loading the Trained Models
 
 To load the following files in the `saved_model/` folder:
 
