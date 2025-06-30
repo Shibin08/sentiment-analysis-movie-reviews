@@ -45,6 +45,24 @@ pip install -r requirements.txt
 Launch Jupyter Notebook or use VS Code to open and run the file:
 Model.ipynb
 
+### Loading the Trained Models
+
+To load the following files in the `saved_model/` folder:
+
+- `LogisticRegression_model.sav`
+- `LinearSVC_model.sav`
+
+### How to Use
+import pickle
+
+logistic_model = pickle.load(open("saved_model/LogisticRegression_model.sav", "rb"))
+svc_model = pickle.load(open("saved_model/LinearSVC_model.sav", "rb"))
+
+sample = ["The movie was fantastic!"]
+print("Logistic Regression:", logistic_model.predict(sample)[0])
+print("Linear SVC:", svc_model.predict(sample)[0])
+
+
 
 
 
