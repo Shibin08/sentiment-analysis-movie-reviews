@@ -25,7 +25,7 @@ https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 # Team members
 **Group No. 32**
-- Santwana Behara(Team Leader)
+- Santwana Behera(Team Leader)
 - Mohammad Rakshanda
 - Majji Vivek
 - Shibin Malakot
